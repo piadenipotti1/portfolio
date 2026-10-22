@@ -17,6 +17,9 @@ Análisis de supervivencia (Kaplan-Meier, log-rank, modelo de Cox) para evaluar 
 ### [Modelado predictivo del rendimiento académico](rendimiento-academico-bayesiano)
 Regresiones bayesianas en Stan para identificar qué factores explican la nota final, con comparación de modelos por validación cruzada (LOO) y una regresión logística jerárquica para la probabilidad de aprobar. · `R` `Stan`
 
+### [¿Qué clientes se van? Baja de clientes en telecomunicaciones](baja-clientes-churn)
+Regresión logística para anticipar qué clientes se dan de baja según antigüedad, contrato e internet. Con validación cruzada, el modelo detecta al 80 % de los clientes que se van (AUC = 0,84) y marca el perfil prioritario para retención. · `R`
+
 ## Proyectos
 
 | Proyecto | Qué hace | Herramientas |
