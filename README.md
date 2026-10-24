@@ -27,7 +27,7 @@ Regresión logística para anticipar qué clientes se dan de baja según antigü
 | [Demanda en guardias hospitalarias](demanda-guardias-bayesiana) | Modelos bayesianos para la llegada de pacientes por hora en dos hospitales, con MCMC programado a mano, y cuántos médicos asignar | R |
 | [Enfermedad cardiovascular](enfermedad-cardiovascular-multivariado) | Componentes principales, correspondencias múltiples y análisis discriminante para perfilar y clasificar pacientes (77 % de exactitud en validación cruzada) | SAS |
 | [Sesgo algorítmico](sesgo-algoritmico) | ¿Un sistema de IA bien calibrado puede discriminar a un grupo? Tasas de falsos positivos con un modelo Beta-Binomial y corrección por umbrales | R |
-| [Segmentación de asociados — Avalian](segmentacion-avalian) | Clustering K-Prototype de 65.320 grupos familiares, árbol de decisión (90,6 % de exactitud) y tablero de Power BI. **Mención, Concurso Elsa Servy 2026** | R, Power BI |
+| [Segmentación de asociados — Avalian](segmentacion-avalian) | Clustering K-Prototype de la cartera de una prepaga, árbol de decisión para clasificar nuevos afiliados y tablero de Power BI. **Mención, Concurso Elsa Servy 2026** | R, Power BI |
 | Colágeno y progresión al cáncer de hígado | Análisis no paramétrico (Kruskal-Wallis) presentado como póster. **Primera mención, concurso de pósters del II Congreso Argentino de Estadística (2026)** | R |
 | E-commerce Olist | Ventas, entregas y reseñas con SQL y tablero de Power BI | SQL, Power BI · 🔄 en curso |
 
